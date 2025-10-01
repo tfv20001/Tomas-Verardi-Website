@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Substrate Spincoater – UConn"
-date: 2025-01-01
+date: 2025-09-01
 categories: projects
 ---
 
