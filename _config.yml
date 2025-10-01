@@ -1,1 +1,9 @@
 theme: minima
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+nav_pages:
+  - projects.md
