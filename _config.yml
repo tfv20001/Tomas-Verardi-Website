@@ -3,7 +3,9 @@ theme: minima
 collections:
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /projects/:name/
 
-nav_pages:
+# Show "Projects" in the top nav (Minima reads header_pages)
+header_pages:
+  - index.md
   - projects.md
