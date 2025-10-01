@@ -1,5 +1,5 @@
 ---
-title: Tomas Verardi's Portfolio
+title: Summary
 ---
 
 Senior Mechanical Engineering student at the **University of Connecticut** graduating in **December 2025** with a GPA of **3.92**.  
